@@ -1,8 +1,8 @@
 print("="*40)
-print("\t\tInputan Jumlah Perkalian Dengan Rata-Ratanya")
+print("Inputan Jumlah Perkalian Dengan Rata-Ratanya")
 print("="*40)
 
-n = int(input("\tMasukkan jumlah nilai yang ingin dijumlah: "))
+n = int(input("Masukkan jumlah nilai yang ingin dijumlah: "))
 total = 0
 
 for i in range(n):

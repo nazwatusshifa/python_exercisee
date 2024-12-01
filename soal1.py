@@ -1,0 +1,5 @@
+print("*"*40)
+print("             PROGRAM PYTHON            ")
+print("         OLEH : NAZWATUS SHIFA         ")
+print("             KELAS : X PPLG 2          ")
+print("*"*40)
